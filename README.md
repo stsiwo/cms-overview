@@ -799,7 +799,7 @@ design and implement RDBMS.
   - One-To-Many: put a foreign key field on "Many" table.
   - Many-To-Many: create a join table and put primary key of both tables into the join table as foreign keys
 3. identify the cascading (e.g., how to deal with child tables when the parent is updated/deleted)
-4. identify the index to boost performance. (e.g., columns that often used in 'where' or 'join' clause.)
+4. identify the index to boost performance. (e.g., columns that often used in 'where' clause.)
 
 ## Security
 
